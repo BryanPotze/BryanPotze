@@ -1,7 +1,6 @@
 <p align="center">
   <img src="broccoli-banner.png" width="100%" />
 </p>
-
 ---
 
 ### 🥦 About Me
