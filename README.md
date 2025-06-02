@@ -1,39 +1,30 @@
-# 🥦 Bryan Potze — King of Broccoli
-
-![broccoli banner](https://your-image-host/broccoli-banner.png)
-
-## 🧠 Developer. 🥬 Coder. 🧊 Cool like a fridge full of greens.
-
-> “Stay crisp, stay clean. Code like a king.” — *Broccoli Boss*
-
-### 🥦 About Me
-I turn logic into reality and wrap it in Tailwind green.  
-Here's a taste of what I bring to the table:
-
-- 💻 Web Dev (Next.js, Tailwind)
-- 🧪 Testing & Automation
-- ☁️ Cloud + API integrations
-- 🍽️ FileMaker recipes for real-world apps
+<h1 align="center">🥦 Bryan Potze 🥦</h1>
+<p align="center">Broccoli-powered dev from The Netherlands</p>
 
 ---
 
-### 🧬 My Projects
+### 🥦 About Me
 
-| Name            | Description                            | Tech            |
-|-----------------|----------------------------------------|-----------------|
-| `🥦 Portfolio`   | Personal site with flair                | CSS, HTML       |
-| `🥦 Login`       | DB-backed login system                 | PHP, SQL        |
-| `🥦 Sebastian`   | C++ robotics code                      | C++             |
-| `🥦 Sunnysocks`  | Frontend project                       | HTML, Design    |
+- 🧠 Full-stack developer  
+- 🥬 Fueled by broccoli, code, and coffee  
+- 🇳🇱 Based in the Netherlands  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BryanPotze&show_icons=true&theme=gruvbox)
+![Bryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanPotze&show_icons=true&theme=tokyonight&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanPotze&layout=compact&theme=tokyonight&bg_color=0d1117)
 
 ---
 
-### 🥇 Badges  
-![badge1](https://img.shields.io/badge/Broccoli-Raw-green?style=for-the-badge)  
-![badge2](https://img.shields.io/badge/Code-Fresh-brightgreen?style=for-the-badge)
+### 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=BryanPotze&theme=darkhub&row=1&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/bryanpotze"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
