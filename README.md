@@ -1,5 +1,6 @@
-<h1 align="center">🥦 Bryan Potze 🥦</h1>
-<p align="center">Broccoli-powered dev from The Netherlands</p>
+<p align="center">
+  <img src="broccoli-banner.png" width="100%" />
+</p>
 
 ---
 
