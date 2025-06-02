@@ -6,7 +6,7 @@
 ### 🥦 About Me
 
 - 🧠 Full-stack developer  
-- 🥬 Fueled by broccoli, code, and coffee  
+- 🥬 Fueled by broccoli, code, and pre-workout
 - 🇳🇱 Based in the Netherlands  
 
 ---
@@ -27,4 +27,4 @@
 
 ### 🌐 Connect with me
 
-<a href="https://www.linkedin.com/in/bryanpotze"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/bryan-potze-9019342a1/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
